@@ -40,6 +40,10 @@
 
     ];
 
+    foreach($hotels as $hotel){
+        var_dump($hotel['name']);
+    }
+
 ?>
 
 <!DOCTYPE html>

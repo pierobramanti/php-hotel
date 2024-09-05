@@ -40,9 +40,10 @@
 
     ];
 
-    foreach($hotels as $hotel){
+    /*foreach($hotels as $hotel){
         var_dump($hotel['name']);
-    }
+
+    }*/
 
 ?>
 
@@ -55,6 +56,12 @@
     <title>Hotel Selector</title>
 </head>
 <body>
-    
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                
+            </div>
+        </div>
+    </div>
 </body>
 </html>
